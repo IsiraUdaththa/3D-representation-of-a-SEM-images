@@ -5,7 +5,7 @@
 
 • The intensity of darkness observed in scanning electron microscopy (SEM) images serves as a qualitative indicator of depth.
 
-![Alt text](image.png)
+![Alt text](readme/image.png)
 
 
 # Challenges 
@@ -13,7 +13,7 @@
 1. The visualization varies depending on our depth estimation. Currently, there is no algorithm available to determine it.
 
 
-![Alt text](image-1.png)
+![Alt text](readme/image-1.png)
 
 
 2. Because electrons are emitted in all directions, fine features appear brighter, which is why the spider’s hairs are almost white in below image. It may suggest that Pixel values may not fisable give any valueble information regarding structure. 
@@ -21,7 +21,7 @@
 I possess limited knowledge of SEM imaging, and consequently, I may not fully comprehend the appropriate course of action to take in this context.
 
 A Spider’s head
-![Spider’s head](image-4.png)
+![Spider’s head](readme/image-4.png)
 
 Filament of a Tungsten Lightbulb
 ![Filament of a Tungsten Lightbulb](https://qph.cf2.quoracdn.net/main-qimg-7c13b70932aaeb82388d0466bda0b8b7-lq)
