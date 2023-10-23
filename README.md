@@ -16,7 +16,7 @@
 ![Alt text](readme/image-1.png)
 
 
-2. Because electrons are emitted in all directions, fine features appear brighter, which is why the spider’s hairs are almost white in below image. It may suggest that Pixel values may not fisable give any valueble information regarding structure. 
+2. Due to the emission of electrons in all directions, fine details tend to appear brighter, which is why the spider’s hairs are almost white in below image. It suggests that pixel values may not provide valuable structural information
 
 I possess limited knowledge of SEM imaging, and consequently, I may not fully comprehend the appropriate course of action to take in this context.
 
