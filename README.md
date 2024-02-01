@@ -21,15 +21,19 @@
 I possess limited knowledge of SEM imaging, and consequently, I may not fully comprehend the appropriate course of action to take in this context.
 
 A Spider’s head
+
 ![Spider’s head](docs/img/image-4.png)
 
 Filament of a Tungsten Lightbulb
+
 ![Filament of a Tungsten Lightbulb](https://qph.cf2.quoracdn.net/main-qimg-7c13b70932aaeb82388d0466bda0b8b7-lq)
 
 Human Eyelashes
+
 ![Human Eyelashes](https://qph.cf2.quoracdn.net/main-qimg-bea0dea33e9feb437ac920032b736374-lq)
 
 Raw Sugar Crystals
+
 ![Raw Sugar Crystals](https://qph.cf2.quoracdn.net/main-qimg-71411f07b4be9ff627395ca5f9b9cab5-lq)
 
 
